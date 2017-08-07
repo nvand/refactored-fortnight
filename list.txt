@@ -8,14 +8,14 @@ I I
 N Silverware - 8 forks, 8 knives, 16 spoons, and some more forks and knives, should be sufficitent 
 N Small fan
 N Drying Rack - I don't pay to use a dryer if I don't have to. 
-N Shower curtain - Don't remember if we had a curtain inducive shower or a plastic box thing. I've got one irregardless.
+N Shower curtain
 N Crock Pot 
-N Rice steamer - I'm on the fence as towhether this will get used enough to justify its presence.
+N Rice steamer - I'm on the fence as to whether this will get used enough to justify its presence.
 N scissors
 * plates
 * bowls
-* cups - I'd probably be able to get by with janky free plastic stuff people like dominos give out at beginning of semester, in which case I have 6. I (Ryan) can get by with my water bottle and coffee cup.
-* Hot pads
+N cups
+N Hot pads 
 N Liquid measuring cup
 * Dry measuring cups
 R Measuring spoons
@@ -26,7 +26,7 @@ R Medium pot w/ lid
 * more pots
 R Small frying pan
 R Large frying pan
-* trash can
+N trash can
 * cleaning spray/wipes/both - for counters and other surfaces that become unclean
 N Cake pan
 * the flatter metal things that also go in an oven, rectangular

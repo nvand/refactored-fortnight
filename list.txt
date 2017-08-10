@@ -31,7 +31,6 @@ R Large frying pan
 N trash can
 * cleaning spray/wipes/both - for counters and other surfaces that become unclean
 N Cake pan
-* the flatter metal things that also go in an oven, rectangular
 R Large mixing bowl
 * smaller mixing bowls 
 N Rubber spatula - x2

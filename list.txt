@@ -14,7 +14,7 @@ N Rice steamer - I'm on the fence as to whether this will get used enough to jus
 N scissors
 R 4 large plates
 R 4 small plates
-* bowls
+N bowls - 6
 N cups
 N Hot pads 
 N Liquid measuring cup
@@ -34,7 +34,8 @@ N Cake pan
 R Large mixing bowl
 * smaller mixing bowls 
 N Rubber spatula - x2
-* Can opener
+N Spatula  - that you flip stuff with
+N Can opener
 N muffin tray
 * cutting board
 N Pitcher - for making juice and/or lemonade etc

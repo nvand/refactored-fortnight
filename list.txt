@@ -27,7 +27,7 @@ R Medium pot w/ lid
 R Large pot w/ lid
 R Small frying pan
 R Large frying pan
-N trash can
+N trash can - with trash bags!
 R cleaning spray/wipes/both - for counters and other surfaces that become unclean
 N Cake pan
 R Large mixing bowl
@@ -36,7 +36,7 @@ N Rubber spatula - x2
 N Spatula  - that you flip stuff with
 N Can opener
 N muffin tray
-* cutting board
+N cutting board
 N Pitcher - for making juice and/or lemonade etc
 N Tupperware - x5 - plastic, lids
 R K-cup coffee maker

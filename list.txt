@@ -18,21 +18,20 @@ N bowls - 6
 N cups
 N Hot pads 
 N Liquid measuring cup
-* Dry measuring cups
+R Dry measuring cups
 R Measuring spoons
 N Cooking spoon - the kind you'd stir soup with
 N Knives - the sharp cutting kind
 N Dish cloths - for washing and drying
 R Medium pot w/ lid
 R Large pot w/ lid
-* more pots
 R Small frying pan
 R Large frying pan
 N trash can
-* cleaning spray/wipes/both - for counters and other surfaces that become unclean
+R cleaning spray/wipes/both - for counters and other surfaces that become unclean
 N Cake pan
 R Large mixing bowl
-* smaller mixing bowls 
+R Small mixing bowl
 N Rubber spatula - x2
 N Spatula  - that you flip stuff with
 N Can opener
@@ -44,4 +43,14 @@ R K-cup coffee maker
 R Regular coffee maker
 R Coffee grinder
 R George Foreman grill
-Do we want to bring anything in the way of electronics? I could probably steal a tv from my family, and I have a PS4, which does dvds and such.
+R PS4
+R Food Processor
+R Dish brush
+R Microwave
+R Pot holders - x2
+R Whisk
+R Large Tupperware container
+R Medium Tupperware container - x2
+R Small Tupperware container - x2
+R Colander
+R Mugs - x4
